@@ -1,3 +1,3 @@
 # c-code-gcd
-gcd number using c
-this is the code to find gcd number using c language
+finding gcd number by using c
+this is the code for find gcd number using c language
